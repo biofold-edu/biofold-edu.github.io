@@ -108,7 +108,7 @@ footer {
   #container .block {
     border-top: 1px solid #efefef;
     border-bottom: 1px solid #efefef;
-    padding: 30px 40px 24px;
+    padding: 10px 10px 10px;
     text-align: center; }
     #container .block:first-child, #container .block + .block {
       border-top: 0; }
