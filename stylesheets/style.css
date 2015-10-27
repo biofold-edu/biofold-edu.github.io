@@ -76,7 +76,11 @@ blockquote {
   font-style: normal !important; }
 
 header {
-  text-align: center; }
+  text-align: center; 
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px; }
 
 footer {
   width: 100%;
