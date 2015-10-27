@@ -1,5 +1,5 @@
-title:            Scribble
-description:      A jekyll theme. Because I scribble.
+title:            BioFolD - Educational
+description:      Courses Lectures and Talks
 url:              # Site url.
 signoff:          # Your name.
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
@@ -7,16 +7,15 @@ facebook_appid:   # appid for like button, remove from /_includes/share.html if 
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
-  - name:         About
-    url:          /about
-  - name:         Blog
-    url:          http://muan.co
+  - name:         Courses
+    url:          /courses
+  - name:         Lectures
+    url:          /lectures
+  - name:         BioFolD
+    url:          http://biofold.org
     external:     true
   - name:         Email
-    url:          mailto:hello@muan.co
-    external:     true
-  - name:         GitHub
-    url:          http://github.com/muan
+    url:          mailto:emidio.capriotti@gmail.com
     external:     true
 highlighter:      pygments
 permalink:        pretty
