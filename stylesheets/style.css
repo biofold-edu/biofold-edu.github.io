@@ -76,7 +76,9 @@ blockquote {
   font-style: normal !important; }
 
 header {
-  text-align: center; }
+  text-align: center; 
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;}
 
 footer {
   width: 100%;
@@ -247,6 +249,7 @@ section.post {
   section.post ul ul, section.post ul ol, section.post ol ul, section.post ol ol {
     margin-left: 20px;
     padding: 0; }
+q
   section.post h1 {
     text-transform: uppercase;
     text-align: center;
