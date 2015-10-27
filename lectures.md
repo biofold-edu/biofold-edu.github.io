@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Courses
+title: Lectures
 ---
 
-In this page are collected all the information about the courses given in different institutions.
+In this page are collected  information about the single lectures and talk given in different institutions and conferences.
 
 Give people something to read and get to know you. Here's my attempt: this is [Mu-An](http://muan.co), a designer developer who lives in London at the moment.
 
