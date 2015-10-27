@@ -5,7 +5,7 @@ html, body {
   height: 100%; }
 
 body {
-  background: #4689a3;
+  background: #f9f9f9;
   color: #303030;
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
@@ -161,7 +161,7 @@ a, .as-link {
   transition: color 0.3s; }
   a.main, a:hover, .as-link.main, .as-link:hover {
     color: #1d5884;
-    /* background-image: url(/images/line.png); */
+    background-image: url(/images/line.png);
     background-repeat: repeat-x;
     background-position: left bottom; }
   a.big-button, .as-link.big-button {
@@ -247,7 +247,6 @@ section.post {
   section.post ul ul, section.post ul ol, section.post ol ul, section.post ol ol {
     margin-left: 20px;
     padding: 0; }
-
   section.post h1 {
     text-transform: uppercase;
     text-align: center;
@@ -280,7 +279,7 @@ section.post, section > p {
     -o-transition: all, 0.3s;
     transition: all, 0.3s;
     color: #606060;
-    background: #4689a3;
+    background: #f9f9f9;
     position: relative;
     overflow: hidden;
     display: block;
