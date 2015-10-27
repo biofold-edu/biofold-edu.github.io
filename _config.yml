@@ -16,7 +16,6 @@ links:
     external:     true
   - name:         Email
     url:          mailto:emidio.capriotti@gmail.com
-    external:     true
 highlighter:      pygments
 permalink:        pretty
 markdown:         redcarpet
